@@ -1,11 +1,13 @@
 package hce.web.hce_dmo_web1.controller;
 
-import org.springframework.stereotype.Controller;
+import java.util.List;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import hce.web.hce_dmo_web1.models.*;
-import java.util.*;
+
+import hce.web.hce_dmo_web1.models.Product;
+import hce.web.hce_dmo_web1.models.ProductAPI;
 
 @RestController
 @RequestMapping("/products")
