@@ -1,2 +1,4 @@
 /workspaces/hce_dmo_web1/src/main/java/hce/web/hce_dmo_web1/HceDmoWeb1Application.java
 /workspaces/hce_dmo_web1/src/main/java/hce/web/hce_dmo_web1/controller/ProductController.java
+/workspaces/hce_dmo_web1/src/main/java/hce/web/hce_dmo_web1/models/Product.java
+/workspaces/hce_dmo_web1/src/main/java/hce/web/hce_dmo_web1/models/ProductAPI.java
